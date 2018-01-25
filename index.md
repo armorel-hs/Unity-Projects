@@ -10,3 +10,6 @@
 
 ### Home Environment
 <img src="Copy of Living Room.PNG" />
+<video controls>
+  <source src="HE2 - Copy.mp4" type="video/mp4">
+  </video>

@@ -10,3 +10,5 @@
 
 ### Home Environment
 <img src="Copy of Living Room.PNG" />
+<img src="Copy of Living Room.PNG" />
+<img src="Copy of Living Room.PNG" />

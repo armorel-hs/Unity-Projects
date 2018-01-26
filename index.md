@@ -10,5 +10,5 @@
 
 ### Home Environment
 <img src="Copy of Living Room.PNG" />
-<img src="Copy of Living Room.PNG" />
-<img src="Copy of Living Room.PNG" />
+<img src="Kitchen Parrallel view 2.PNG" />
+<img src="Kitchen appliance view.PNG" />

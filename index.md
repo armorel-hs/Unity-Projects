@@ -14,3 +14,5 @@
 <img src="Kitchen appliance view.PNG" />
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/yZbYtV4E4Zg?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
 </iframe>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/_aWcn4Yqc7Y?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+</iframe>

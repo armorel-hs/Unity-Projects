@@ -25,13 +25,6 @@
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/zWo0YMMAgmg?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
 </iframe>
 
-<src="HE2 - Copy.mp4" />
-<video width="320" height="240" controls>
-  <source src="HE2 - Copy.mp4" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
-Your browser does not support the video tag.
-</video>
-
 ### Skating Rink Environment
 <img src="yas.JPG" />
 <img src="Capture2.JPG" />
